@@ -2,7 +2,9 @@
 
 * [Welcome](README.md)
 * [Events](events.md)
+* [About Us](about-us.md)
 
 ## Getting Started
 
-* [About Us](getting-started/about-us.md)
+* [OpenWiFi (OWF)](getting-started/openwifi-owf.md)
+* [Open Lan Switching (OLS)](getting-started/open-lan-switching-ols.md)
