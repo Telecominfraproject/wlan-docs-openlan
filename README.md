@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/TIP_OpenLAN_Logo_Horizontal_Color.png
+cover: .gitbook/assets/TIP_OpenLAN_Logo_Horizontal_Color (1).png
 coverY: 0
 layout:
   cover:
