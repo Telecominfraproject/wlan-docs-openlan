@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Events](events.md)
-* [About Us](about-us.md)
+* [About Us](getting-started/about-us.md)
 
 ## Getting Started
 
