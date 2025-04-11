@@ -20,7 +20,7 @@ layout:
 
 # Welcome
 
-
+Welcome to the OpenLAN community! OpenLAN is paving the way for enterprise and telco B2B sectors with innovative WiFi and LAN switch solutions. Our platform is designed for robust connectivity, optimizing network performance in office environments, commercial centers, and telecommunications setups. Whether you are enhancing existing systems or establishing new networks, OpenLAN delivers the reliability and flexibility to meet diverse networking needs. Engage with us to exchange knowledge and advance your projects with state-of-the-art technology.
 
 {% embed url="https://telecominfraproject.us.hivebrite.com/topics/26635/page/welcome-OLAN" %}
 
