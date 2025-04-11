@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/TIP_OpenLAN_Logo_Horizontal_Color.png
+cover: .gitbook/assets/openlan_logo.png
 coverY: 0
 layout:
   cover:
@@ -9,9 +9,9 @@ layout:
   title:
     visible: true
   description:
-    visible: false
-  tableOfContents:
     visible: true
+  tableOfContents:
+    visible: false
   outline:
     visible: true
   pagination:
@@ -19,6 +19,8 @@ layout:
 ---
 
 # Welcome
+
+
 
 {% embed url="https://telecominfraproject.us.hivebrite.com/topics/26635/page/welcome-OLAN" %}
 
