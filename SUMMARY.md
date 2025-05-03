@@ -17,3 +17,7 @@
 
 * [Articles](articles.md)
 * [Videos](videos.md)
+
+## Current Products/Solutions
+
+* [TIP Exchange](current-products-solutions/tip-exchange.md)
