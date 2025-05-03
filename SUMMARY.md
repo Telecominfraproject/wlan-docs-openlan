@@ -16,3 +16,4 @@
 ***
 
 * [Articles](articles.md)
+* [Videos](videos.md)
