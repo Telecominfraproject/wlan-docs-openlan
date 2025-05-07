@@ -11,6 +11,8 @@
 
 ## Useful Links
 
+* [OpenLAN Roadmap](useful-links/openlan-roadmap.md)
+* [OpenLAN Hardware](useful-links/openlan-hardware.md)
 * [Use Cases](useful-links/use-cases.md)
 
 ***
